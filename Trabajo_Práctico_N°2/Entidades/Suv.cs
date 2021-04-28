@@ -15,7 +15,7 @@ namespace Entidades
         /// <summary>
         /// SUV son 'Grande'
         /// </summary>
-        protected new ETamanio Tamanio
+        protected override ETamanio Tamanio
         {
             get
             {
@@ -23,15 +23,13 @@ namespace Entidades
             }
         }
 
-        public new string Mostrar()
+        public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("SUV");
-            sb.AppendLine($"{base.Mostrar()}");
-            sb.AppendLine("---------------------");
-            sb.AppendLine("");
-            sb.AppendLine($"TAMAÑO : {this.Tamanio}");
+            sb.AppendLine(base.Mostrar());
+            sb.AppendFormat("TAMAÑO : {0}", this.Tamanio);
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 

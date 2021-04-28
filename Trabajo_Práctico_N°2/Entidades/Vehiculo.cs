@@ -23,27 +23,19 @@ namespace Entidades
         private string chasis;
         private ConsoleColor color;
 
-        public Vehiculo(string chasis, EMarca marca, ConsoleColor color)
-        {
-            this.chasis = chasis;
-            this.marca = marca;
-            this.color = color;
-        }
         /// <summary>
         /// ReadOnly: Retornará el tamaño
         /// </summary>
-        public ETamanio Tamanio
+        protected abstract ETamanio Tamanio
         {
-            get 
-            {
-                return Tamanio;
-            }
+            get;
         }
+
         /// <summary>
         /// Publica todos los datos del Vehiculo.
         /// </summary>
         /// <returns></returns>
-        public string Mostrar()
+        public virtual string Mostrar()
         {
             return (string)this;
         }
@@ -51,9 +43,12 @@ namespace Entidades
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"CHASIS: {p.chasis}");
-            sb.AppendLine($"MARCA: {p.marca}");
-            sb.Append($"COLOR {p.color}");
+
+            sb.AppendFormat("CHASIS: {0}\r\n", p.chasis);
+            sb.AppendFormat("MARCA : {0}\r\n", p.marca.ToString());
+            sb.AppendFormat("COLOR : {0}\r\n", p.color.ToString());
+            sb.AppendLine("---------------------");
+
             return sb.ToString();
         }
 
@@ -65,7 +60,7 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
-            return (v1.chasis==v2.chasis);
+            return v1.chasis == v2.chasis;
         }
         /// <summary>
         /// Dos vehiculos son distintos si su chasis es distinto
@@ -75,7 +70,13 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator !=(Vehiculo v1, Vehiculo v2)
         {
-            return !(v1 == v2);
+            return !(v1.chasis == v2.chasis);
+        }
+        public Vehiculo(string chasis,EMarca marca,ConsoleColor color) 
+        {
+            this.chasis = chasis;
+            this.marca = marca;
+            this.color = color;
         }
     }
 }

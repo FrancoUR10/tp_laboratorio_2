@@ -21,13 +21,13 @@ D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\obj\Debug\TP-02.csprojRes
 D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-N2\TP-02\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-N2\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
 D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-N2\TP-02\TP-02\obj\Debug\TP-02.exe
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\TP-02\bin\Debug\TP-02.exe.config
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\TP-02\bin\Debug\TP-02.exe
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\TP-02\bin\Debug\TP-02.pdb
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\TP-02\bin\Debug\Entidades.dll
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\TP-02\bin\Debug\Entidades.pdb
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\TP-02\obj\Debug\TP-02.exe
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\TP-02\obj\Debug\TP-02.pdb
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\TP-02\bin\Debug\TP-02.exe
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\TP-02\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\TP-02\obj\Debug\TP-02.exe
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\TP-02\obj\Debug\TP-02.pdb

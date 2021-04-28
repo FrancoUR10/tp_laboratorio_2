@@ -11,9 +11,9 @@ D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
 D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.dll
 D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\Entidades\bin\Debug\Entidades.dll
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\Entidades\bin\Debug\Entidades.pdb
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\Entidades\obj\Debug\Entidades.dll
-C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2\TP-02-Cascara.r2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Programacion y Laboratorio 2\Trabajos Practicos\TP N°2\MiAreaDeTrabajoTP2_Nueva\TP-02-Cascara.r2\Entidades\obj\Debug\Entidades.pdb
